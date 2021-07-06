@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class Katsuki {
+public class Katsuki {
+    public void sayHello(){
+        System.out.println("Hello Katsuki");
+    }
 }
